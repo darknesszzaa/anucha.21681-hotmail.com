@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "nodemon",
     "build": "next build",
-    "start": "env-cmd .env next start"
+    "start": "next start"
   },
   "dependencies": {
     "@material-ui/core": "^4.4.3",
