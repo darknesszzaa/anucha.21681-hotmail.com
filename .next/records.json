@@ -1,0 +1,39 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/runtime/main.js": 2,
+      "static\\hD2q5um1P26voT4tdOmlF\\pages\\_app.js": 3,
+      "static\\hD2q5um1P26voT4tdOmlF\\pages\\_error.js": 4,
+      "static\\hD2q5um1P26voT4tdOmlF\\pages\\index.js": 5,
+      "static\\hD2q5um1P26voT4tdOmlF\\pages\\login.js": 6,
+      "static\\hD2q5um1P26voT4tdOmlF\\pages\\register.js": 7,
+      "static\\0YJ1Z8HtlIJ0ldj6Yt9Sb\\pages\\_app.js": 8,
+      "static\\0YJ1Z8HtlIJ0ldj6Yt9Sb\\pages\\_error.js": 9,
+      "static\\0YJ1Z8HtlIJ0ldj6Yt9Sb\\pages\\index.js": 10,
+      "static\\0YJ1Z8HtlIJ0ldj6Yt9Sb\\pages\\login.js": 11,
+      "static\\0YJ1Z8HtlIJ0ldj6Yt9Sb\\pages\\register.js": 12,
+      "static\\rWnhNdl0LHt0vd87WupT1\\pages\\_app.js": 3,
+      "static\\rWnhNdl0LHt0vd87WupT1\\pages\\_error.js": 4,
+      "static\\rWnhNdl0LHt0vd87WupT1\\pages\\index.js": 5,
+      "static\\rWnhNdl0LHt0vd87WupT1\\pages\\login.js": 6,
+      "static\\rWnhNdl0LHt0vd87WupT1\\pages\\register.js": 7
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}

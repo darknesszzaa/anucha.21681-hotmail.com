@@ -1,0 +1,51 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/_document.jsx": 0,
+      "multi private-next-pages/index.js": 1,
+      "multi private-next-pages/login.jsx": 2,
+      "multi private-next-pages/register.jsx": 3,
+      "multi next/dist/pages/_app": 4,
+      "multi next/dist/pages/_error": 5
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static\\hD2q5um1P26voT4tdOmlF\\pages\\_app.js": 0,
+      "static\\hD2q5um1P26voT4tdOmlF\\pages\\_document.js": 1,
+      "static\\hD2q5um1P26voT4tdOmlF\\pages\\_error.js": 2,
+      "static\\hD2q5um1P26voT4tdOmlF\\pages\\index.js": 3,
+      "static\\hD2q5um1P26voT4tdOmlF\\pages\\login.js": 4,
+      "static\\hD2q5um1P26voT4tdOmlF\\pages\\register.js": 5,
+      "static\\0YJ1Z8HtlIJ0ldj6Yt9Sb\\pages\\_app.js": 6,
+      "static\\0YJ1Z8HtlIJ0ldj6Yt9Sb\\pages\\_document.js": 7,
+      "static\\0YJ1Z8HtlIJ0ldj6Yt9Sb\\pages\\_error.js": 8,
+      "static\\0YJ1Z8HtlIJ0ldj6Yt9Sb\\pages\\index.js": 9,
+      "static\\0YJ1Z8HtlIJ0ldj6Yt9Sb\\pages\\login.js": 10,
+      "static\\0YJ1Z8HtlIJ0ldj6Yt9Sb\\pages\\register.js": 11,
+      "static\\rWnhNdl0LHt0vd87WupT1\\pages\\_app.js": 0,
+      "static\\rWnhNdl0LHt0vd87WupT1\\pages\\_document.js": 1,
+      "static\\rWnhNdl0LHt0vd87WupT1\\pages\\_error.js": 2,
+      "static\\rWnhNdl0LHt0vd87WupT1\\pages\\index.js": 3,
+      "static\\rWnhNdl0LHt0vd87WupT1\\pages\\login.js": 4,
+      "static\\rWnhNdl0LHt0vd87WupT1\\pages\\register.js": 5
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+}
