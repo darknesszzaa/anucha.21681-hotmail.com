@@ -1,5 +1,5 @@
 {
-  "name": "passport-google-oauth-strategy",
+  "name": "authen-server",
   "version": "0.1.0",
   "private": true,
   "scripts": {
